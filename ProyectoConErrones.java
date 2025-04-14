@@ -1,5 +1,3 @@
-package com.musica;
-
 public class ProyectoConErrores {
 
     public static void main(String[] args) {
